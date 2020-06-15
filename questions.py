@@ -1,3 +1,8 @@
+__author__ = "Gabriela Karina Pauljus"
+__license__ = "GPL"
+__version__ = "1.0.1"
+__status__ = "Prototype"
+
 import nltk
 import sys
 import os
