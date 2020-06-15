@@ -6,7 +6,7 @@ import string
 import math
 import time
 
-FILE_MATCHES = 2
+FILE_MATCHES = 4
 SENTENCE_MATCHES = 3
 
 
@@ -55,10 +55,9 @@ def main():
                 break
             elif (follow_up.lower() == 'n' ) or (follow_up.lower() == 'no' ):
                 print("Ok, see you soon!")
-                time.sleep(3)
                 sys.exit(1)
             else:
-                follow_up = input(f'"{follow_up}" is not a valid option, dummie! Be smart and enter Y or N!!: ')
+                follow_up = input(f'"{follow_up}" is not a valid option, dummie! Enter Y or N!!: ')
 
 
 
@@ -168,7 +167,7 @@ def top_files(query, files, idfs, n):
     """
     Given a `query` (a set of words), `files` (a dictionary mapping names of
     files to a list of their words), and `idfs` (a dictionary mapping words
-    to their IDF values), return a list of the filenames of the the `n` top
+    to their IDF values), returns a list of the filenames of the the `n` top
     files that match the query, ranked according to tf-idf.
     """
     # initiate tfidf-dict
@@ -203,9 +202,8 @@ def top_sentences(query, sentences, idfs, n):
     """
     Given a `query` (a set of words), `sentences` (a dictionary mapping
     sentences to a list of their words), and `idfs` (a dictionary mapping words
-    to their IDF values), return a list of the `n` top sentences that match
-    the query, ranked according to idf. If there are ties, preference should
-    be given to sentences that have a higher query term density.
+    to their IDF values), returns a list of the `n` top sentences that match
+    the query, ranked according to idf. If there are ties, preference is given to sentences that have a higher query term density.
     """
         # initiate tfidf-dict
     sentence_stats = {}
