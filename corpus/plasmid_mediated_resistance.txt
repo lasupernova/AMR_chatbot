@@ -1,0 +1,30 @@
+'''Plasmid-mediated resistance''' is the transfer of [[antibiotic resistance]] genes which are carried on [[plasmid]]s. The plasmids can be transferred between [[bacteria]] within the same [[species]] or between different species via [[Bacterial conjugation|conjugation]]. Plasmids often carry multiple [[antibiotic resistance]] genes, contributing to the spread of [[Multidrug resistance|multidrug-resistance]] (MDR). Antibiotic resistance mediated by MDR plasmids severely limits the treatment options for the infections caused by [[Gram-negative bacteria]], especially family [[Enterobacteriaceae]]. The global spread of MDR plasmids has been enhanced by [[selective pressure]] from antibiotic usage in human and [[veterinary medicine]].
+
+== Properties of resistance plasmids ==
+Resistance plasmids by definition carry one or more antibiotic resistance genes. They are frequently accompanied by the genes encoding [[virulence]] determinants, specific enzymes or resistance to toxic [[heavy metals]]. Multiple resistance genes are commonly arranged in the resistance cassettes. The antibiotic resistance genes found on the plasmids confer resistance to most of the antibiotic classes used nowadays, for example, [[?-lactam antibiotic|beta-lactams]], [[fluoroquinolones]] and [[aminoglycoside]]s.
+
+It is very common for the resistance genes or entire resistance cassettes to be re-arranged on the same plasmid or be moved to a different plasmid or chromosome by means of recombination systems. Examples of such systems include [[integron]]s and [[Transposable element|transposons]].
+
+Most of the resistance plasmids are conjugative, meaning that they encode all the needed components for the transfer of the plasmid to other bacterium. Other smaller plasmids (usually < 10 kb in size) can be mobilized by a conjugative plasmid (usually > 30 kb) in order to be transferred.
+
+==''Enterobacteriaceae''==
+Members of family Enterobacteriaceae, for example, ''[[Escherichia coli]]'' or ''[[Klebsiella pneumoniae]]'' pose the biggest threat regarding plasmid-mediated resistance in hospital- and community-acquired infections.
+
+=== Beta-lactam resistance ===
+Both narrow spectrum beta-lactamases (e.g. penicillinases) and [[Extended-spectrum beta-lactamase|extended spectrum beta-lactamases]] (ESBL) are common for resistance plasmids in ''Enterobacteriaceae''. Often multiple beta-lactamase genes are found on the same plasmid hydrolyzing a wide spectrum of beta-lactam antibiotics.
+
+==== Extended spectrum beta-lactamases (ESBL) ====
+ESBL enzymes can hydrolyze all beta-lactam antibiotics, including cephalosporins, except for the carpabepenems. The first clinically observed ESBL enzymes were mutated versions of the narrow spectrum beta-lactamases, like TEM and SHV. Other ESBL enzymes originate outside of family Enterobacteriaceae, but have been spreading as well.
+In addition, since the plasmids that carry ESBL genes also commonly encode [[Antibiotic resistance|resistance]] determinants for many other antibiotics, ESBL strains are often resistant to many non-beta-lactam antibiotics as well,leaving very few options for the treatment.
+
+==== Carbapenemases ====
+[[Carbapenem-resistant enterobacteriaceae|Carbapenemases]] represent type of ESBL which are able to hydrolyze carbapenem antibiotics that are considered as the last-resort treatment for ESBL-producing bacteria. KPC, NDM-1, VIM and OXA-48 carbapenemases have been increasingly reported worldwide as causes of [[hospital-acquired infection]]s.
+
+=== Quinolone resistance ===
+[[Quinolone]] resistance genes are frequently located on the same plasmid as the ESBL genes. Examples of resistance mechanisms include different Qnr proteins, aminoglycose acetyltransferase aac(6')-Ib-cr that is able to hydrolyze [[ciprofloxacin]] and [[norfloxacin]], as well as efflux transporters OqxAB and QepA.
+
+=== Aminoglycoside resistance ===
+[[Aminoglycoside]] resistance genes are also commonly found together with ESBL genes. Resistance to aminoglycosides is conferred via numerous aminoglycoside-modifying enzymes and 16S rRNA methyltransferases.
+
+== small RNAs ==
+Study investigating physiological effect of pHK01 plasmid in host ''E.coli'' J53 found that the plasmid reduced bacterial motility and conferred resistance to beta-lactams. The pHK01  produced plasmid-encoded  [[small RNA]]s and mediated expression of host sRNAs. These sRNAs were antisense to genes involved in replication, conjugate transfer and plasmid stabilisation : [[CopA-like RNA|AS-repA3 (CopA)]], AS-traI, AS-finO, AS-traG, AS-pc02 . The over-expression of one of the plasmid-encoded [[Antisense RNA|antisense sRNA]]<nowiki/>s: '''AS-traI''' shortened t '''la'''log phase of host growth.

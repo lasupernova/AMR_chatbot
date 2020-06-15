@@ -1,0 +1,30 @@
+'''Mobile genetic elements''' ('''MGEs''') are a type of genetic material that can move around within a genome, or that can be transferred from one species or replicon to another. MGEs are found in all organisms. In humans, approximately 50% of the genome is thought to be MGEs. MGEs play a distinct role in evolution. Gene duplication events can also happen through the mechanism of MGEs. MGEs can also cause mutations in protein coding regions, which alters the protein functions. They can also rearrange genes in the host genome. One of the examples of MGEs in evolutionary context is that virulence factors and [[antimicrobial resistance|antibiotic resistance]] genes of MGEs can be transported to share them with neighboring bacteria. Newly acquired genes through this mechanism can increase fitness by gaining new or additional functions. On the other hand, MGEs can also decrease fitness by introducing disease-causing alleles or mutations.
+]
+
+==Types==
+
+*[[Transposon]]s (also called transposable elements) are DNA sequences that can move locations within a genome, which includes retrotransposons and DNA transposons.
+**[[Retrotransposon]]s are the most widespread class of transposons in mammals. An RNA transcript of MGEs is copied by reverse transcriptase. Then, the DNA sequence can be inserted back to a random location of the genome.
+**[[DNA transposon]]s are a DNA segment that can move to a new location by a "cut-and-paste" strategy.
+*[[Plasmid]]s of bacteria are a transferable genetic element through [[bacterial conjugation]]. This is a mechanism of horizontal gene transfer that allows bacteria to share virulence factors and antibiotic resistance genes.
+*[[Bacteriophage]] elements, like [[bacteriophage Mu|Mu]], which integrates randomly into the genome by [[transduction (genetics)|transduction]].
+*[[Group I catalytic intron|Group I]] and [[Group II intron|Group II]] [[intron]]s are a product from [[self-splicing intron|self-splicing]] in the host transcripts, and they act as&nbsp;[[ribozyme]]s that can invade tRNA, rRNA, and protein coding genes in bacteria.
+
+==Research examples==
+
+[[CRISPR|CRISPR-Cas]] systems in bacteria and [[archaea]] are adaptive immune systems to protect against deadly consequences from MGEs. Using comparative genomic and phylogenetic analysis, researchers found that CRISPR-Cas variants are associated with distinct types of MGEs such as transposable elements. In addition, CRISPR-Cas controls transposable elements for their propagation.
+
+MGEs such as plasmids by a horizontal transmission are generally beneficial to an organism. The ability of transferring plasmids (sharing) is important in an evolutionary perspective. Tazzyman and Bonhoeffer found that fixation (receiving) of the transferred plasmids in a new organism is just as important as the ability to transfer them. Beneficial rare and transferable plasmids have a higher fixation probability, whereas deleterious transferable genetic elements have a lower fixation probability to avoid lethality to the host organisms.
+
+Transposition by transposable elements is mutagenic. Thus, organisms have evolved to repress the transposition events, and failure to repress the events causes cancers in somatic cells. Cecco et al. found that during early age transcription of retrotransposable elements are minimal in mice, but in advanced age the transcription level increases.This age-dependent expression level of transposable elements is reduced by calorie restriction diet.
+
+==Diseases==
+
+The consequence of mobile genetic elements can alter the transcriptional patterns, which frequently leads to genetic disorders such as immune disorders, breast cancer, multiple sclerosis, and amyotrophic lateral sclerosis. In humans, stress can lead to transactional activation of MGEs such as [[endogenous retrovirus]]es, and this activation has been linked to [[neurodegeneration]].
+
+==Other notes==
+The total of all mobile genetic elements in a genome may be referred to as the [[mobilome]].
+
+[[Barbara McClintock]] was awarded the [[list of Nobel laureates in Physiology or Medicine#1983|1983]] [[Nobel Prize in Physiology or Medicine]] "for her discovery of mobile genetic elements" ([[transposable element]]s).
+
+Mobile genetic elements play a critical role in the spread of virulence factors, such as [[exotoxin]]s and [[exoenzyme]]s, among bacteria. Strategies to combat certain bacterial infections by targeting these specific virulence factors and mobile genetic elements have been proposed.

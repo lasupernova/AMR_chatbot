@@ -1,0 +1,45 @@
+'''Antibiotic misuse''', sometimes called '''antibiotic abuse''' or '''antibiotic overuse''', refers to the misuse or overuse of [[antibiotic]]s, with potentially serious effects on health. It is a contributing factor to the development of [[antibiotic resistance]], including the creation of [[Antibiotic resistance|multidrug-resistant bacteria]], informally called "super bugs": relatively harmless bacteria (such as [[staphylococcus]], [[enterococcus]] and [[acinetobacter]]) can develop resistance to multiple antibiotics and cause life-threatening infections.
+
+==History of antibiotic regulation==
+Antibiotics have been around since 1928 when penicillin was discovered by Alexander Fleming. In the 1980s, antibiotics that were determined medically important for treatment of animals could be approved under veterinary oversight. In 1996, the National Antimicrobial Resistance Monitoring System (NARMS) was established. Starting in 2010, publications regarding antimicrobial drugs in food became an annual report. Starting in 2012, there was publicly solicited input on how data is to be collected and reported for matters relating to the use of antimicrobials for food-producing animals. Resulting from this, the FDA revised its sampling structure within NARMS with the goal of obtaining more representative livestock data for the key organisms under surveillance.
+
+==Instances of antibiotic misuse==
+Antibiotics treats bacterial infections rather than viral infections.
+
+
+Common situations in which antibiotics are overused include the following:
+*Apparent viral [[respiratory illness]] in children should not be treated with antibiotics. If there is a diagnosis of bacterial infection, then antibiotics may be used.
+*When children with [[Tympanostomy tube|ear tubes]] get ear infections, they should have antibiotic eardrops put into their ears to go to the infection rather than having oral antibiotics which are more likely to have unwanted side effects.
+*[[Swimmer's ear]] should be treated with antibiotic eardrops, not oral antibiotics.
+*[[Sinusitis]] should not be treated with antibiotics because it is usually caused by a virus, and even when it is caused by a bacteria, antibiotics are not indicated except in atypical circumstances as it usually resolves without treatment.
+*Viral [[conjunctivitis]] should not be treated with antibiotics. Antibiotics should only be used with confirmation that a patient has bacterial conjunctivitis.1|doi=10.1002/14651858.CD001211.pub3|issn=1469-493X|pmid=22972049}}</ref>
+*Older persons often have bacteria in their urine which is detected in routine urine tests, but unless the person has the symptoms of a [[urinary tract infection]], antibiotics should not be used in response.
+
+*The use of topical antibiotics to treat surgical wounds does not reduce infection rates in comparison with non-antibiotic ointment or no ointment at all.
+
+==Social and economic impact==
+Antibiotics can cause severe reactions and add significantly to the cost of care. In the United States, antibiotics and anti-infectives are the leading cause of [[adverse effect]] from drugs.  In a study of 32 States in 2011, antibiotics and anti-infectives accounted for nearly 24 percent of ADEs that were present on admission, and 28 percent of those that occurred during a hospital stay. 
+
+If antimicrobial resistance continues to increase from current levels, it is estimated that by 2050 ten million people would die every year due to lack of available treatment and the world’s GDP would be 2 - 3.5% lower in 2050. If worldwide action is not taken to combat antibiotic misuse and the development of antimicrobial resistance, from 2014 - 2050 it is estimated that 300 million people could die prematurely due to drug resistance and $60 – 100 trillion of economic output would be lost. If the current worldwide development of antimicrobial resistance is delayed by just 10 years,  $65 trillion of the world’s GDP output can be saved from 2014-2050.
+
+Prescribing by an infectious disease specialist compared with prescribing by a non-infectious disease specialist decreases antibiotic consumption and reduces costs.
+
+==Antibiotic resistance==
+Though antibiotics are required to treat severe bacterial infections, misuse has contributed to a rise in bacterial resistance. The overuse of fluoroquinolone and other antibiotics fuels antibiotic resistance in bacteria, which can inhibit the treatment of antibiotic-resistant infections.From 1995 to 2002, inappropriate antibiotic prescribing for acute respiratory infections, which are usually caused by viruses and thus are not responsive to antibiotics, declined from 61% to 49%. However, the use of broad-spectrum antibiotics such as the fluoroquinolones, jumped from 41% to 77% from 1995 to 2001. Overuse of these antibiotics will eventually render them useless for treating antibiotic-resistant infections, for which broad-spectrum antibiotics are supposed to be reserved. Their excessive use in children with [[otitis media]] has given rise to a breed of bacteria resistant to antibiotics entirely.Additionally, the use of antimicrobial substances in building materials and personal care products has contributed to a higher percentage of antibiotic resistant bacteria in the indoor environment, where humans spend a large majority of their lives.
+
+Widespread use of fluoroquinolones as a first-line antibiotic has led to decreased [[antibiotic sensitivity]], with negative implications for serious bacterial infections such as those associated with [[cystic fibrosis]], where quinolones are among the few viable antibiotics.
+
+==Inappropriate use==
+===Human health===
+
+Antibiotics have no effect on viral infections such as the common cold. They are also ineffective against sore throats, which are usually viral and self-resolving. Most cases of [[bronchitis]] (90&ndash;95%) are viral as well, passing after a few weeks&mdash;the use of antibiotics against bronchitis is superfluous and can put the patient at risk of suffering adverse reactions. If you take an antibiotic when you have a viral infection, the antibiotic attacks bacteria in your body, bacteria that are either beneficial or at least not causing disease. This misdirected treatment can then promote antibiotic-resistant properties in harmless bacteria that can be shared with other bacteria, or create an opportunity for potentially harmful bacteria to replace the harmless ones.
+
+Official guidelines by the [[American Heart Association]] for [[dental antibiotic prophylaxis]] call for the administration of antibiotics to prevent [[infective endocarditis]]. Though the current (2007) guidelines dictate more restricted antibiotic use, many dentists and dental patients follow the 1997 guidelines instead, leading to overuse of antibiotics.
+
+A study by [[Imperial College London]] in February 2017 found that of 20 online websites, 9 would provide antibiotics (illegally) without a prescription to UK residents.
+
+===Livestock===
+There has been significant use of antibiotics in [[animal husbandry]]. The most abundant use of antimicrobials worldwide is in livestock; they are typically distributed in animal feed or water for purposes such as disease prevention and growth promotion.
+Debates have arisen surrounding the extent of the impact of these antibiotics, particularly antimicrobial growth promoters, on human antibiotic resistance. Although some sources assert that there remains a lack of knowledge on which antibiotic use generates the most risk to humans, policies and regulations have been placed to limit any harmful effects, such as the potential of bacteria developing antibiotic resistance within livestock, and that bacteria transferring resistance genes to human pathogens.
+Many countries already ban growth promotion, and the European Union has banned the use of antibiotics for growth promotion since 2006. On January 1, 2017, the FDA enacted legislation to require that all human medically important feed-grade antibiotics (many prior over-the-counter-drugs) become classified as Veterinary Feed Directive drugs (VFD).  This action requires that farmers establish and work with veterinaries to receive a written VFD order. The effect of this act places a requirement on an established veterinarian-client-patient relationship (VCPR). Through this relationship, farmers will receive an increased education in the form of advice and guidance from their veterinarian. Resistant bacteria in food can cause infections in humans. Similar to humans, giving antibiotics to food animals will kill most bacteria, but resistant bacteria can survive. When food animals are slaughtered and processed, resistant germs in the animal gut can contaminate the meat or other animal products.
+Resistant germs from the animal gut can also get into the environment, like water and soil, from animal manure. If animal manure or water containing resistant germs are used on fruits, vegetables, or other produce as fertilizer or irrigation, then this can spread resistant germs.

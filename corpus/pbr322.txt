@@ -1,0 +1,90 @@
+'''pBR322''' is a [[plasmid]] and was one of the first widely used ''[[E. coli]]'' [[cloning]] [[Vector (molecular biology)|vector]]s. Created in 1977 in the laboratory of [[Herbert Boyer]] at the [[University of California, San Francisco]], it was named after [[Francisco Bolivar Zapata]], the [[postdoctoral research]]er who constructed it.  The p stands for "plasmid," and BR for "Bolivar" and "Rodriguez."
+
+pBR322 is 4361 base pairs in length and has two antibiotic resistance genes – the [[gene]] ''[[Beta-lactamase|bla]]'' encoding the [[ampicillin]] [[Antibiotic resistance|resistance]] (Amp<sup>R</sup>) [[protein]], and the gene ''tetA'' encoding the [[tetracycline]] resistance (Tet<sup>R</sup>) protein.  It contains the [[origin of replication]] of pMB1, and the ''[[rop protein|rop]]'' gene, which encodes a restrictor of plasmid copy number. The plasmid has unique [[restriction sites]] for more than forty [[restriction enzymes]]. Eleven of these forty sites lie within the Tet<sup>R</sup> gene. There are two sites for restriction enzymes [[HindIII]] and [[ClaI]] within the [[promoter (genetics)|promoter]] of the Tet<sup>R</sup> gene. There are six key [[restriction sites]] inside the Amp<sup>R</sup> gene.
+
+The circular sequence is numbered such that 0 is the middle of the unique EcoRI site and the count increases through the Tet<sup>R</sup> gene. The Amp<sup>R</sup> gene is [[penicillin]] [[beta-lactamase]]. Promoters P1 and P3 are for the beta-lactamase gene. P3 is the natural promoter, and P1 is artificially created by the [[DNA ligase|ligation]] of two different DNA fragments to create pBR322. P2 is in the same region as P1, but it is on the opposite strand and initiates [[Transcription (genetics)|transcription]] in the direction of the tetracycline resistance gene.
+
+==Background==
+Early cloning experiments may be conducted using natural plasmids such the [[ColE1]] and [[pSC101]]. Each of these plasmids may have its advantages and disadvantages. For example, the [[ColE1]] plasmid and its derivatives have the advantage of higher copy number and allow for [[chloramphenicol]] amplification of plasmid to produce a high yield of plasmid, however screening for immunity to [[colicin]] E1 is not technically simple.The plasmid pSC101, a natural plasmid from ''Salmonella panama'', confers [[tetracycline]] resistance which allows for simpler screening process with antibiotic selection, but it is a low copy number plasmid which does not give a high yield of plasmid. Another plasmid, RSF 2124, which is a derivative of ColE1, confers ampicillin resistance but is larger.
+
+Many other plasmids were artificially constructed to create one that would be ideal for cloning purpose, and pBR322 was found to be most versatile by many and was therefore the one most popularly used. It has two antibiotic resistance genes, as [[selectable markers]], and a number of convenient unique restriction sites that made it suitable as a [[cloning vector]]. The plasmid was constructed with genetic material from 3 main sources – the [[tetracycline]] resistance gene of pSC101, the ampicillin resistance gene of RSF 2124, and the  [[origin of replication|replication elements]] of pMB1, a close relative of the [[ColE1]] plasmid.
+
+A large number of other plasmids based on pBR322 have since been constructed specifically designed for a wide variety of purposes.  Examples include the [[pUC19|pUC]] series of plasmids. Most [[expression vector]]s for extrachromosomal protein expression and [[shuttle vector]]s contain the pBR322 origin of replication, and fragments of pBR322 are very popular in the construction of intraspecies shuttle or binary vectors and vectors for targeted integration and excision of DNA from chromosome.
+
+==DNA sequence==
+{{missing information|section|annotation: what basepairs are what|date=March 2019}}
+The sequence in pBR322 is pBR322:     
+        1 ttctcatgtt tgacagctta tcatcgataa gctttaatgc ggtagtttat cacagttaaa
+       61 ttgctaacgc agtcaggcac cgtgtatgaa atctaacaat gcgctcatcg tcatcctcgg
+      121 caccgtcacc ctggatgctg taggcatagg cttggttatg ccggtactgc cgggcctctt
+      181 gcgggatatc gtccattccg acagcatcgc cagtcactat ggcgtgctgc tagcgctata
+      241 tgcgttgatg caatttctat gcgcacccgt tctcggagca ctgtccgacc gctttggccg
+      301 ccgcccagtc ctgctcgctt cgctacttgg agccactatc gactacgcga tcatggcgac
+      361 cacacccgtc ctgtggatcc tctacgccgg acgcatcgtg gccggcatca ccggcgccac
+      421 aggtgcggtt gctggcgcct atatcgccga catcaccgat ggggaagatc gggctcgcca
+      481 cttcgggctc atgagcgctt gtttcggcgt gggtatggtg gcaggccccg tggccggggg
+      541 actgttgggc gccatctcct tgcatgcacc attccttgcg gcggcggtgc tcaacggcct
+      601 caacctacta ctgggctgct tcctaatgca ggagtcgcat aagggagagc gtcgaccgat
+      661 gcccttgaga gccttcaacc cagtcagctc cttccggtgg gcgcggggca tgactatcgt
+      721 cgccgcactt atgactgtct tctttatcat gcaactcgta ggacaggtgc cggcagcgct
+      781 ctgggtcatt ttcggcgagg accgctttcg ctggagcgcg acgatgatcg gcctgtcgct
+      841 tgcggtattc ggaatcttgc acgccctcgc tcaagccttc gtcactggtc ccgccaccaa
+      901 acgtttcggc gagaagcagg ccattatcgc cggcatggcg gccgacgcgc tgggctacgt
+      961 cttgctggcg ttcgcgacgc gaggctggat ggccttcccc attatgattc ttctcgcttc
+     1021 cggcggcatc gggatgcccg cgttgcaggc catgctgtcc aggcaggtag atgacgacca
+     1081 tcagggacag cttcaaggat cgctcgcggc tcttaccagc ctaacttcga tcactggacc
+     1141 gctgatcgtc acggcgattt atgccgcctc ggcgagcaca tggaacgggt tggcatggat
+     1201 tgtaggcgcc gccctatacc ttgtctgcct ccccgcgttg cgtcgcggtg catggagccg
+     1261 ggccacctcg acctgaatgg aagccggcgg cacctcgcta acggattcac cactccaaga
+     1321 attggagcca atcaattctt gcggagaact gtgaatgcgc aaaccaaccc ttggcagaac
+     1381 atatccatcg cgtccgccat ctccagcagc cgcacgcggc gcatctcggg cagcgttggg
+     1441 tcctggccac gggtgcgcat gatcgtgctc ctgtcgttga ggacccggct aggctggcgg
+     1501 ggttgcctta ctggttagca gaatgaatca ccgatacgcg agcgaacgtg aagcgactgc
+     1561 tgctgcaaaa cgtctgcgac ctgagcaaca acatgaatgg tcttcggttt ccgtgtttcg
+     1621 taaagtctgg aaacgcggaa gtcagcgccc tgcaccatta tgttccggat ctgcatcgca
+     1681 ggatgctgct ggctaccctg tggaacacct acatctgtat taacgaagcg ctggcattga
+     1741 ccctgagtga tttttctctg gtcccgccgc atccataccg ccagttgttt accctcacaa
+     1801 cgttccagta accgggcatg ttcatcatca gtaacccgta tcgtgagcat cctctctcgt
+     1861 ttcatcggta tcattacccc catgaacaga aatccccctt acacggaggc atcagtgacc
+     1921 aaacaggaaa aaaccgccct taacatggcc cgctttatca gaagccagac attaacgctt
+     1981 ctggagaaac tcaacgagct ggacgcggat gaacaggcag acatctgtga atcgcttcac
+     2041 gaccacgctg atgagcttta ccgcagctgc ctcgcgcgtt tcggtgatga cggtgaaaac
+     2101 ctctgacaca tgcagctccc ggagacggtc acagcttgtc tgtaagcgga tgccgggagc
+     2161 agacaagccc gtcagggcgc gtcagcgggt gttggcgggt gtcggggcgc agccatgacc
+     2221 cagtcacgta gcgatagcgg agtgtatact ggcttaacta tgcggcatca gagcagattg
+     2281 tactgagagt gcaccatatg cggtgtgaaa taccgcacag atgcgtaagg agaaaatacc
+     2341 gcatcaggcg ctcttccgct tcctcgctca ctgactcgct gcgctcggtc gttcggctgc
+     2401 ggcgagcggt atcagctcac tcaaaggcgg taatacggtt atccacagaa tcaggggata
+     2461 acgcaggaaa gaacatgtga gcaaaaggcc agcaaaaggc caggaaccgt aaaaaggccg
+     2521 cgttgctggc gtttttccat aggctccgcc cccctgacga gcatcacaaa aatcgacgct
+     2581 caagtcagag gtggcgaaac ccgacaggac tataaagata ccaggcgttt ccccctggaa
+     2641 gctccctcgt gcgctctcct gttccgaccc tgccgcttac cggatacctg tccgcctttc
+     2701 tcccttcggg aagcgtggcg ctttctcata gctcacgctg taggtatctc agttcggtgt
+     2761 aggtcgttcg ctccaagctg ggctgtgtgc acgaaccccc cgttcagccc gaccgctgcg
+     2821 ccttatccgg taactatcgt cttgagtcca acccggtaag acacgactta tcgccactgg
+     2881 cagcagccac tggtaacagg attagcagag cgaggtatgt aggcggtgct acagagttct
+     2941 tgaagtggtg gcctaactac ggctacacta gaaggacagt atttggtatc tgcgctctgc
+     3001 tgaagccagt taccttcgga aaaagagttg gtagctcttg atccggcaaa caaaccaccg
+     3061 ctggtagcgg tggttttttt gtttgcaagc agcagattac gcgcagaaaa aaaggatctc
+     3121 aagaagatcc tttgatcttt tctacggggt ctgacgctca gtggaacgaa aactcacgtt
+     3181 aagggatttt ggtcatgaga ttatcaaaaa ggatcttcac ctagatcctt ttaaattaaa
+     3241 aatgaagttt taaatcaatc taaagtatat atgagtaaac ttggtctgac agttaccaat
+     3301 gcttaatcag tgaggcacct atctcagcga tctgtctatt tcgttcatcc atagttgcct
+     3361 gactccccgt cgtgtagata actacgatac gggagggctt accatctggc cccagtgctg
+     3421 caatgatacc gcgagaccca cgctcaccgg ctccagattt atcagcaata aaccagccag
+     3481 ccggaagggc cgagcgcaga agtggtcctg caactttatc cgcctccatc cagtctatta
+     3541 attgttgccg ggaagctaga gtaagtagtt cgccagttaa tagtttgcgc aacgttgttg
+     3601 ccattgctgc aggcatcgtg gtgtcacgct cgtcgtttgg tatggcttca ttcagctccg
+     3661 gttcccaacg atcaaggcga gttacatgat cccccatgtt gtgcaaaaaa gcggttagct
+     3721 ccttcggtcc tccgatcgtt gtcagaagta agttggccgc agtgttatca ctcatggtta
+     3781 tggcagcact gcataattct cttactgtca tgccatccgt aagatgcttt tctgtgactg
+     3841 gtgagtactc aaccaagtca ttctgagaat agtgtatgcg gcgaccgagt tgctcttgcc
+     3901 cggcgtcaac acgggataat accgcgccac atagcagaac tttaaaagtg ctcatcattg
+     3961 gaaaacgttc ttcggggcga aaactctcaa ggatcttacc gctgttgaga tccagttcga
+     4021 tgtaacccac tcgtgcaccc aactgatctt cagcatcttt tactttcacc agcgtttctg
+     4081 ggtgagcaaa aacaggaagg caaaatgccg caaaaaaggg aataagggcg acacggaaat
+     4141 gttgaatact catactcttc ctttttcaat attattgaag catttatcag ggttattgtc
+     4201 tcatgagcgg atacatattt gaatgtattt agaaaaataa acaaataggg gttccgcgca
+     4261 catttccccg aaaagtgcca cctgacgtct aagaaaccat tattatcatg acattaacct
+     4321 ataaaaatag gcgtatcacg aggccctttc gtcttcaaga a
+|}

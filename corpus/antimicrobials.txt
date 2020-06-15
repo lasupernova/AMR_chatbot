@@ -1,0 +1,85 @@
+An '''antimicrobial''' is an agent that kills [[microorganism]]s or stops their growth. Antimicrobial medicines can be grouped according to the microorganisms they act primarily against. For example, [[antibiotics]] are used against [[bacteria]], and [[antifungals]] are used against [[fungi]]. They can also be classified according to their function. Agents that kill microbes are [[microbicide|microbicidal]], while those that merely inhibit their growth are called [[biostatic]]. The use of antimicrobial medicines to treat infection is known as [[antimicrobial chemotherapy]], while the use of antimicrobial medicines to prevent infection is known as [[antibiotic prophylaxis|antimicrobial prophylaxis]].
+
+The main classes of antimicrobial agents are [[disinfectant]]s (non-selective agents, such as [[bleach]]), which kill a wide range of microbes on non-living surfaces to prevent the spread of illness, [[antiseptic]]s (which are applied to living tissue and help reduce infection during surgery), and [[antibiotic]]s (which destroy microorganisms within the body). The term "antibiotic" originally described only those formulations derived from living microorganisms but is now also applied to [[Chemical synthesis|synthetic]] agents, such as [[sulfonamide (medicine)|sulfonamides]] or [[fluoroquinolone]]s. The term also used to be restricted to antibacterials (and is often used as a synonym for them by medical professionals and in medical literature), but its context has broadened to include all antimicrobials. Antibacterial agents can be further subdivided into [[bactericide|bactericidal]] agents, which kill bacteria, and [[bacteriostatic agent]]s, which slow down or stall bacterial growth. In response, further advancements in antimicrobial technologies have resulted in solutions that can go beyond simply inhibiting microbial growth. Instead, certain types of porous media have been developed to kill microbes on contact.=
+{{TOC limit|4}}
+
+==History==
+Antimicrobial use has been common practice for at least 2000 years. [[Ancient Egyptian medicine|Ancient Egyptians]] and [[Ancient Greek medicine|ancient Greeks]] used specific [[Mold (fungus)|mold]]s and plant extracts to treat infection.
+
+In the 19th century, microbiologists such as [[Louis Pasteur]] and Jules Francois Joubert observed antagonism between some bacteria and discussed the merits of controlling these interactions in medicine. Louis Pasteur's work in fermentation and spontaneous generation led to the distinction between anaerobic and aerobic bacteria. The information garnered by Pasteur led [[Joseph Lister]] to incorporate antiseptic methods, such as sterilizing surgical tools and debriding wounds into surgical procedures. The implementation of these antiseptic techniques drastically reduced the number of infections and subsequent deaths associated with surgical procedures. Louis Pasteur's work within in microbiology also led to the development of many vaccines for life-threatening diseases such as [[anthrax]] and [[rabies]]. On September 3, 1928, [[Alexander Fleming]] returned from a vacation and discovered that a Petri dish filled with ''[[Staphylococcus]]'' was separated into colonies due to the antimicrobial fungus ''[[Penicillium rubens]]''. Fleming and his associates struggled to isolate the antimicrobial but referenced its therapeutic potential in 1929 in the ''British Journal of Experimental Pathology''. In 1942, [[Howard Florey]], [[Ernst Chain]], and [[Edward Abraham]] utilized Fleming's work to purify and extract [[penicillin]] for medicinal uses earning them the 1945 [[Nobel Prize in Physiology or Medicine|Nobel Prize in Medicine]].
+
+==Chemical==
+
+
+===Antibacterials===
+
+
+Antibacterials are used to treat [[bacterial infections]]. Antibiotics are classified generally as [[beta-lactam]]s, [[macrolide]]s, quinolones, [[tetracycline antibiotics|tetracyclines]] or [[aminoglycoside]]s. Their classification within these categories depends on their antimicrobial spectra, pharmacodynamics, and chemical composition. Prolonged use of certain antibacterials can decrease the number of [[human gastrointestinal microbiota|enteric bacteria]], which may have a negative impact on [[health]]. Consumption of [[probiotics]] and reasonable eating may help to replace destroyed gut [[flora]]. [[Fecal bacteriotherapy|Stool transplants]] may be considered for patients who are having difficulty recovering from prolonged antibiotic treatment, as for recurrent [[Clostridioides difficile infection|''Clostridioides difficile'' infection]]s.
+
+The discovery, development and use of antibacterials during the 20th century has reduced mortality from bacterial infections. The antibiotic era began with the pneumatic application of [[nitroglycerine]] drugs, followed by a "golden" period of discovery from about 1945 to 1970, when a number of structurally diverse and highly effective agents were discovered and developed. Since 1980, the introduction of new antimicrobial agents for clinical use has declined, in part because of the enormous expense of developing and testing new drugs. In parallel, there has been an alarming increase in [[antimicrobial resistance]] of bacteria, fungi, parasites and some viruses to multiple existing agents.
+
+Antibacterials are among the most commonly used drugs and among the drugs commonly misused by physicians, for example, in viral [[respiratory tract infection]]s.  As a consequence of widespread and injudicious use of antibacterials, there has been an accelerated emergence of antibiotic-resistant pathogens, resulting in a serious threat to global public health. The resistance problem demands that a renewed effort be made to seek antibacterial agents effective against pathogenic bacteria resistant to current antibacterials.  Possible strategies towards this objective include increased sampling from diverse environments and application of [[metagenomics]] to identify bioactive compounds produced by currently unknown and uncultured microorganisms as well as the development of small-molecule libraries customized for bacterial targets.
+
+===Antifungals===
+
+Antifungals are used to kill or prevent further growth of [[fungi]]. In medicine, they are used as a
+ treatment for infections such as [[athlete's foot]], [[ringworm]] and [[candidiasis|thrush]] and work by exploiting differences between mammalian and fungal cells. Unlike bacteria, both fungi and humans are [[eukaryote]]s. Thus, fungal and human [[cell (biology)|cell]]s are similar at the molecular level, making it more difficult to find a target for an antifungal drug to attack that does not also exist in the host organism. Consequently, there are often [[Adverse effect (medicine)|side effects]] to some of these drugs.  Some of these side effects can be life-threatening if the drug is not used properly.
+
+As well as their use in medicine, antifungals are frequently sought after to control [[indoor mold]] in damp or wet home materials. [[Sodium bicarbonate]] (baking soda) blasted on to surfaces acts as an antifungal. Another antifungal solution applied after or without blasting by soda is a mix of [[hydrogen peroxide]] and a thin surface coating that neutralizes mold and encapsulates the surface to prevent spore release. Some paints are also manufactured with an added antifungal agent for use in high humidity areas such as bathrooms or kitchens. Other antifungal surface treatments typically contain variants of metals known to suppress mold growth e.g. pigments or solutions containing [[copper]], [[silver]] or [[zinc]]. These solutions are not usually available to the general public because of their toxicity.
+
+===Antivirals===
+{{main|Antiviral drug}}
+
+Antiviral drugs are a class of medication used specifically for treating [[virus|viral]] infections.  Like antibiotics, specific antivirals are used for specific viruses. They should be distinguished from [[viricide]]s, which actively deactivate virus particles outside the body.
+
+Many antiviral drugs are designed to treat infections by [[retroviruses]], including [[HIV]].  Important [[antiretroviral drug]]s include the class of [[protease inhibitor (pharmacology)|protease inhibitor]]s. [[Herpesviridae|Herpes viruses]], best known for causing [[cold sore]]s and [[genital herpes]], are usually treated with the [[nucleoside analogue]] [[acyclovir]]. [[Viral hepatitis]] is caused by five unrelated hepatotropic viruses (A-E) and may be treated with antiviral drugs depending on the type of infection. Some [[influenzavirus A|influenza A]] and [[influenzavirus B|B]] viruses have become resistant to [[neuraminidase inhibitor]]s such as [[oseltamivir]], and the search for new substances continues.
+
+===Antiparasitics===
+{{main|Antiparasitic}}
+
+Antiparasitics are a class of medications indicated for the treatment of infectious diseases such as [[leishmaniasis]], [[malaria]] and [[Chagas disease]], which are caused by [[human parasites|parasites]] such as [[nematodes]], [[cestode]]s, [[trematode]]s and infectious [[protozoa]]. Antiparasitic medications include [[metronidazole]], [[iodoquinol]] and [[albendazole]]. Like all therapeutic antimicrobials, they must kill the infecting organism without serious damage to the host.
+
+===Non-pharmaceutical===
+{{Globalize|section|USA|2name=the United States|date=January 2018}}
+A wide range of chemical and natural compounds are used as antimicrobials. [[Organic acids]] and their salts are used widely in food products, e.g. [[lactic acid]], [[citric acid]], [[acetic acid]], either as ingredients or as disinfectants. For example, beef carcasses often are sprayed with acids, and then rinsed or steamed, to reduce the prevalence of ''[[Escherichia coli]]''.
+
+{{Main|Antimicrobial properties of copper|Antimicrobial copper-alloy touch surfaces}}
+
+Copper-alloy surfaces have natural intrinsic antimicrobial properties and can kill microorganisms such as  ''E. coli'' and ''Staphylococcus''. The [[United States Environmental Protection Agency]] has approved the registration of 355 such [[antimicrobial copper-alloy touch surfaces|antibacterial copper alloys]]. In addition to regular cleaning, antimicrobial copper alloys are being installed in some healthcare facilities and subway transit systems as a public hygienic measure. Other heavy metal cations such as [[mercury (element)|Hg<sup>2+</sup>]] and [[lead|Pb<sup>2+</sup>]] have antimicrobial activities, but can be toxic.
+
+Traditional herbalists used plants to treat infectious disease. Many of these plants have been investigated scientifically for antimicrobial activity, and some plant products have been shown to inhibit the growth of pathogenic microorganisms. A number of these agents appear to have structures and modes of action that are distinct from those of the antibiotics in current use, suggesting that [[cross-resistance]] with agents already in use may be minimal.
+
+====Essential oils====
+Many [[essential oil]]s included in [[herbal medicine|herbal]] [[pharmacopoeia]]s are claimed to possess antimicrobial activity, with the oils of [[Pimenta racemosa|bay]], [[cinnamon]], [[oil of clove|clove]] and [[thyme]] reported to be the most potent in studies with [[Foodborne illness#Bacteria|foodborne bacterial pathogens]]. Active constituents include [[terpenoid]]s and [[secondary metabolite]]s. Despite their prevalent use in [[alternative medicine]], essential oils have seen limited use in mainstream medicine. While 25 to 50% of pharmaceutical compounds are plant-derived, none are used as antimicrobials, though there has been increased research in this direction. Barriers to increased usage in mainstream medicine include poor regulatory oversight and quality control, mislabeled or misidentified products, and limited modes of delivery.
+
+====Antimicrobial pesticides====
+According to the U.S. Environmental Protection Agency (EPA), and defined by the [[Federal Insecticide, Fungicide, and Rodenticide Act]], antimicrobial pesticides are used in order to control growth of microbes through disinfection, sanitation, or reduction of development and to protect inanimate objects, industrial processes or systems, surfaces, water, or other chemical substances from contamination, fouling, or deterioration caused by bacteria, viruses, fungi, protozoa, algae, or slime.
+
+=====Antimicrobial pesticide products=====
+The EPA monitors products, such as disinfectants/sanitizers for use in hospitals or homes, in order to ascertain efficacy. Products that are meant for public health are therefore under this monitoring system, including products used for drinking water, swimming pools, food sanitation, and other environmental surfaces. These pesticide products are registered under the premise that, when used properly, they do not demonstrate unreasonable side effects to humans or the environment. Even once certain products are on the market, the EPA continues to monitor and evaluate them to make sure they maintain efficacy in protecting
+ public health.
+
+Public health products regulated by the EPA are divided into three categories:
+* Sterilizers (Sporicides): Eliminate all bacteria, fungi, spores, and viruses 
+* Disinfectants: Destroy or inactivate microorganisms (bacteria, fungi, viruses,) but may not act as sporicides (as those are the most difficult form to destroy). According to efficacy data, the EPA will classify a disinfectant as limited, general/broad spectrum, or as a hospital disinfectant.
+* Sanitizers: Reduce the number of microorganisms, but may not kill or eliminate all of them.
+
+=====Antimicrobial pesticide safety=====
+According to a 2010 [[Centers for Disease Control and Prevention]] report, health-care workers can take steps to improve their safety measures against antimicrobial pesticide exposure. Workers are advised to minimize exposure to these agents by wearing protective equipment, gloves, and safety glasses. Additionally, it is important to follow the handling instructions properly, as that is how the EPA has deemed them as safe to use. Employees should be educated about the health hazards and encouraged to seek medical care if exposure occurs.
+
+===Ozone===
+{{main|Ozone#Applications 2|l1=Ozone Applications}}
+
+Ozone can kill microorganisms in air, water and process equipment and has been used in settings such as kitchen exhaust ventilation, garbage rooms, grease traps, [[biogas plants]], [[wastewater treatment]] plants, textile production, [[breweries]], [[dairies]], food and hygiene production, [[pharmaceutical industries]], bottling plants, zoos, municipal drinking-water systems, [[swimming pool]]s and spas, and in the laundering of clothes and treatment of in–house mold and odors.
+
+===Antimicrobial Scrubs===
+Antimicrobial [[scrubs (clothing)|scrubs]] can reduce the accumulation of odors and stains on scrubs, which in turn improves their longevity. These scrubs also come in a variety of colors and styles. As antimicrobial technology develops at a rapid pace, these scrubs are readily available, with more advanced versions hitting the market every year. These bacteria could then be spread to office desks, break rooms, computers, and other shared technology. This can lead to outbreaks and infections like MRSA, treatments for which cost the healthcare industry $20 billion a year.
+
+==Physical==
+
+===Heat===
+
+Both dry and moist heat are effective in eliminating microbial life. For example, jars used to store preserves such as [[Fruit preserves|jam]] can be sterilized by heating them in a [[conventional oven]]. Heat is also used in [[pasteurization]], a method for slowing the spoilage of foods such as milk, cheese, juices, wines and vinegar. Such products are heated to a certain temperature for a set period of time, which greatly reduces the number of harmful microorganisms.
+
+===Radiation===
+Foods are often [[Food irradiation|irradiated]] to kill harmful [[Food-borne illness#Causes|pathogens]]. Common sources of radiation used in food sterilization include [[cobalt-60]] (a [[gamma emitter]]), [[electron beams]] and [[x-rays]]. [[Ultraviolet#Biology related uses|Ultraviolet light]] is also used to disinfect drinking water, both in small scale personal-use systems and larger scale community water purification systems.

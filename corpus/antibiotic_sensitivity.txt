@@ -1,0 +1,42 @@
+'''Antibiotic sensitivity''' or '''antibiotic susceptibility''' is the susceptibility of [[bacteria]] to [[antibiotic]]s. 
+
+== Motivation ==
+In clinical practice, antibiotics are most frequently prescribed on the basis of general guidelines and knowledge about sensitivity: e.g. uncomplicated [[urinary tract infection]]s can be treated with a first generation [[Quinolone antibiotic|quinolone]], etc. This is because ''[[Escherichia coli]]'' is the most likely causative [[pathogen]], and it is known to be sensitive to [[Quinolone antibiotic|quinolone]] treatment. However, many bacteria are known to be resistant to several classes of [[antibiotics]], and treatment is not so straightforward.
+
+Because susceptibility can vary even within a [[species]] (with some [[strain (biology)|strains]] being more [[antimicrobial resistance|resistant]] than others), '''antibiotic susceptibility testing''' ('''AST''') is usually carried out to determine which antibiotic will be most successful in treating a bacterial infection [[in vivo]]. 
+
+== Testing methods ==
+Tests for antibiotic sensitivity include: 
+
+* [[Kirby-Bauer antibiotic testing|Kirby-Bauer method]]: Small wafers containing antibiotics are placed onto a plate upon which bacteria are growing. If the bacteria are sensitive to the antibiotic, a clear ring, or zone of inhibition, is seen around the wafer indicating poor growth. [[Mueller-Hinton agar|Müeller-Hinton agar]] is frequently used in this antibiotic susceptibility test.
+
+=== Antibiogram ===
+The results of the test are reported on the '''antibiogram'''. Once a culture is established, there are two possible ways to get an antibiogram:
+
+* a semi-quantitative way based on '''diffusion''' ([[Kirby-Bauer antibiotic testing|Kirby-Bauer method]]); small discs containing different antibiotics, or impregnated paper discs, are dropped in different zones of the culture on an agar plate, which is a nutrient-rich environment in which bacteria can grow. The antibiotic will diffuse in the area surrounding each tablet, and a disc of bacterial lysis will become visible. Since the concentration of the antibiotic was the highest at the centre, and the lowest at the edge of this zone, the diameter is suggestive for the Minimum Inhibitory Concentration, or MIC, (conversion of the diameter in millimeter to the MIC, in ?g/ml, is based on known [[linear regression]] curves).
+* a quantitative way based on '''dilution''': a dilution series of antibiotics is established (this is a series of reaction vials with progressively lower concentrations of antibiotic substance). The last vial in which no bacteria grow contains the antibiotic at the Minimal Inhibiting Concentration.
+
+=== Analysis ===
+Once the MIC is calculated, it can be compared to known values for a given bacterium and antibiotic: e.g. a MIC > 0,06&nbsp;?g/ml may be interpreted as a penicillin-resistant ''[[Streptococcus pneumoniae]]''. Such information may be useful to the clinician, who can change the empirical treatment, to a more custom-tailored treatment that is directed only at the causative bacterium.
+
+Often clinical specimens are sent to the [[medical laboratory|clinical laboratory]] for '''culture and sensitivity''' ('''C&S'''), which is culture and antibiotic sensitivity testing offered as one combined service. This is because the clinician needs to know which organism is causing the infection, and which drugs will specifically work against this strain.
+
+Some antibiotics actually kill the bacteria ([[bactericidal]]), whereas others merely prevent the bacteria from multiplying ([[bacteriostatic]]) so that the host's immune system can overcome them; this may affect testing procedures.{{Citation needed|date=February 2019}}
+
+== Clinical practice ==
+Ideal antibiotic therapy is based on determination of the aetiological agent and its relevant antibiotic sensitivity. Empiric treatment is often started before laboratory microbiological reports are available when treatment should not be delayed due to the seriousness of the disease. The effectiveness of individual antibiotics varies with the location of the infection, the ability of the antibiotic to reach the site of infection, and the ability of the bacteria to resist or inactivate the antibiotic. 
+
+[[File:Antibiogram-Mueller-Hinton.JPG|thumb|Antibiogram, [[palatine tonsil]] smear of a dog with [[tonsillitis]], [[Mueller-Hinton agar]]. Only [[Amoxicilline]]-[[Clavulanic acid]] (AMC) and [[Chloramphenicol]] (C) show an inhibition of bacterial growth.]]
+
+An antibiogram is the result of an antibiotic sensitivity test. It is by definition an [[in vitro]] sensitivity, but the correlation of in vitro to in vivo sensitivity is often high enough for the test to be clinically useful.
+
+This is especially the case in vulnerable patients, such as patients in the [[intensive care]] unit. When these patients develop a [[hospital-acquired pneumonia]], more hardy bacteria like ''[[Pseudomonas aeruginosa]]'' are potentially involved. Treatment is then generally started on the basis of surveillance data about the local pathogens probably involved. This first treatment, based on statistical information about former patients, and aimed at a large group of potentially involved microbes, is called [[empirical treatment]].
+
+Before starting this treatment, the physician will collect a sample from a suspected contaminated compartment: a [[blood]] sample when bacteria possibly have invaded the bloodstream, a [[sputum]] sample in the case of a ventilator associated pneumonia, and a [[urine]] sample in the case of a urinary tract infection. These samples are transferred to the [[microbiology]] lab, which looks at the sample under the [[microscope]], and tries to [[microbiological culture|culture the bacteria]]. This can help in the [[diagnosis]].
+
+== Further research ==
+[[Point-of-care testing|Point-of-care resistance diagnostics]] (POCRD) can help practitioners avoid prescribing unnecessary antibiotics in the style of [[precision medicine]]. Traditional techniques typically take 12 to 48 hours whereas rapid testing using [[molecular diagnostics]] is defined as "being feasible within an 8-h working shift".Progress has been slow due to a range of reasons including cost and regulation.
+
+In 2016, the United States National Institutes of Health (NIH) announced the Antimicrobial Resistance Diagnostic Challenge as a $20 million prize to encourage the development of diagnostic tests to identify highly resistant bacterial infections. Also, the US Congress wants drug companies that are not working on new resistance antibiotics to do so and if not may pay into a fund if they are not working on new antibiotics to combat the antibiotic resistance crisis.
+
+As of 2017, [[Point-of-care testing|point-of-care resistance diagnostics]] (POCRD) was available for methicillin-resistant Staphyloccus aureus (MRSA), rifampin-resistant Mycobacterium tuberculosis (TB), and vancomycin-resistant Enterococci (VRE) through [[GeneXpert MTB/RIF|GeneXpert]] by [[molecular diagnostics]] company [[Cepheid Inc|Cepheid]].

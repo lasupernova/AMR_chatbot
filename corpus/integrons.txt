@@ -1,0 +1,20 @@
+'''Integrons''' are genetic mechanisms that allow bacteria to adapt and evolve rapidly through the stockpiling and expression of new genes. These genes are embedded in a specific genetic structure called [[gene cassette]] (a term that is lately changing to integron cassette) that generally carries one promoterless [[open reading frame]] (ORF) together with a recombination site (''attC''). Integron cassettes are incorporated to the ''attI'' site of the integron platform by [[site-specific recombination]] reactions mediated by the integrase.
+
+== Discovery ==
+Integrons were initially discovered on conjugative plasmids through their role in antibiotic resistance. Indeed, these mobile integrons, as they are now known, can carry a variety of cassettes containing genes that are almost exclusively related to antibiotic resistance. Further studies have come to the conclusion that integrons are chromosomal elements, and that their mobilisation onto plasmids has been fostered by transposons and selected by the intensive use of antibiotics. The function of the majority of cassettes found in chromosomal integrons remains unknown.
+
+== Structure ==
+An integron is minimally composed of:
+* a gene encoding for a site-specific [[recombinase]]: ''intI, ''belonging to the [[integrase]] family
+* a proximal [[Genetic recombination|recombination]] site: ''attI'', which is recognized by the integrase and at which gene cassettes may be inserted
+* a promoter: ''Pc'', which directs transcription of cassette-encoded genes
+
+=== Gene cassettes ===
+
+Additionally, an integron will usually contain one or more gene cassettes that have been incorporated into it. The gene cassettes may encode genes for [[antibiotic resistance]], although most genes in integrons are uncharacterized. An ''attC'' sequence (also called 59-be) is a repeat that flanks cassettes and enables cassettes to be integrated at the ''attI'' site, excised and undergo [[horizontal gene transfer]].
+
+== Occurrence ==
+Integrons may be found as part of [[mobile genetic elements]] such as [[plasmids]] and [[transposon]]s. Integrons can also be found in [[chromosomes]].
+
+== Terminology ==
+The term ''super-integron'' was first applied in 1998 (but without definition) to the integron with a long cassette array on the small chromosome of ''[[Vibrio cholerae]]''. The term has since been used for integrons of various cassette array lengths or for integrons on bacterial chromosomes (versus, for example, plasmids).  Use of "super-integron" is now discouraged since its meaning is unclear.

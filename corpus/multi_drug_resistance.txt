@@ -1,0 +1,56 @@
+'''Multiple drug resistance''' ('''MDR'''), '''multidrug resistance''' or '''multiresistance''' is [[antimicrobial resistance]] shown by a species of [[microorganism]] to at least one [[antimicrobial]] drug in three or more antimicrobial categories. [[Antimicrobial]] categories are classifications of antimicrobial agents based on their mode of action and specific to target organisms. The MDR types most threatening to [[public health]] are MDR [[bacteria]] that resist multiple [[antibiotics]]; other types include MDR [[virus]]es, [[parasitism|parasites]] (resistant to multiple [[antifungal]], [[antiviral drug|antiviral]], and [[antiparasitic]] drugs of a wide chemical variety).Recognizing different degrees of MDR, the terms '''extensively drug-resistant''' ('''XDR''') and '''pandrug-resistant''' ('''PDR''') have been introduced. '''Extensively drug-resistant (XDR)''' is the non-susceptibility of one microorganism to all antimicrobial agents except in two or less antimicrobial categories. Within XDR, '''pandrug-resistant (PDR)''' is the non-susceptibility of a microorganism to all antimicrobial agents in all antimicrobial categories. The definitions were published in 2011 in the journal ''Clinical Microbiology and Infection'' and are openly accessible.
+
+==Common multidrug-resistant organisms (MDROs)==
+Common multidrug-resistant organisms are usually bacteria:
+* [[Vancomycin-resistant Enterococcus|Vancomycin-Resistant Enterococci]] (VRE)
+* Methicillin-Resistant ''[[Staphylococcus]]'' ''aureus'' ([[Methicillin-resistant Staphylococcus aureus|MRSA]])
+* [[Beta-lactamase#Extended-spectrum beta-lactamase (ESBL)|Extended-spectrum ?-lactamase]] (ESBLs) producing Gram-negative bacteria
+* [[Beta-lactamase#KPC (K. pneumoniae carbapenemase) (Class A)|''Klebsiella'' ''pneumoniae'' carbapenemase]] (KPC) producing Gram-negatives
+* Multidrug-Resistant Gram negative rods (MDR GNR) [[MDRGN bacteria]] such as ''[[Enterobacter]] species'', ''[[E.coli]]'', ''[[Klebsiella pneumoniae]]'', ''[[Acinetobacter baumannii]]'', ''[[Pseudomonas aeruginosa]]''
+
+A group of Gram-positive and Gram-negative bacteria of particular recent importance have been dubbed as the ESKAPE group (''Enterococcus faecium'', ''Staphylococcus aureus'', ''Klebsiella pneumoniae'', ''Acinetobacter baumannii'', ''Pseudomonas aeruginosa'' and Enterobacter species).
+
+==Bacterial resistance to antibiotics==
+
+Various microorganisms have survived for thousands of years by their ability to adapt to [[antimicrobial agent]]s. They do so via [[spontaneous mutation]] or by [[DNA transfer]]. This process enables some bacteria to oppose the action of certain antibiotics, rendering the antibiotics ineffective. These microorganisms employ several mechanisms in attaining multi-drug resistance:
+* No longer relying on a [[glycoprotein]] [[cell wall]]
+* [[Antibiotic resistance#Mechanisms|Enzymatic deactivation of antibiotics]]
+* Decreased cell wall permeability to antibiotics
+* Altered target sites of antibiotic
+* [[Efflux (microbiology)|Efflux]] mechanisms to remove antibiotics
+* Increased [[mutation rate]] as a stress response
+
+Many different bacteria now exhibit multi-drug resistance, including [[staphylococci]], [[enterococci]], [[gonococci]], [[streptococci]], [[salmonella]], as well as numerous other Gram-negative bacteria and ''[[Mycobacterium tuberculosis]]''. Antibiotic resistant bacteria are able to transfer copies of [[DNA]] that code for a mechanism of resistance to other bacteria even distantly related to them, which then are also able to pass on the resistance genes and so generations of antibiotics resistant bacteria are produced. This process is called [[horizontal gene transfer]].
+
+== Bacterial resistance to bacteriophages ==
+Phage-resistant bacteria variants have been observed in human studies. As for antibiotics, horizontal transfer of phage resistance can be acquired by plasmid acquisition.
+
+==Antifungal resistance==
+Yeasts such as ''Candida species'' can become resistant under long term treatment with azole preparations, requiring treatment with a different drug class.
+[[Scedosporium prolificans]] infections are almost uniformly fatal because of their resistance to multiple antifungal agents.
+
+==Antiviral resistance==
+[[HIV]] is the prime example of MDR against antivirals, as it mutates rapidly under monotherapy.
+[[Influenza virus]] has become increasingly MDR; first to amantadines, then to [[neuraminidase inhibitors]] such as [[oseltamivir]], (2008-2009: 98.5% of Influenza A tested resistant), also more commonly in people with weak immune systems. [[Cytomegalovirus]] can become resistant to [[ganciclovir]] and [[foscarnet]] under treatment, especially in immunosuppressed patients. [[Herpes simplex virus]] rarely becomes resistant to [[acyclovir]] preparations, mostly in the form of cross-resistance to [[famciclovir]] and [[valacyclovir]], usually in immunosuppressed patients.
+[[covid-sars 2]] that causes the COVID-19 disease is a good example of MDR.
+
+==Antiparasitic resistance==
+The prime example for MDR against antiparasitic drugs is [[malaria]]. ''[[Plasmodium vivax]]'' has become [[chloroquine]] and [[sulfadoxine-pyrimethamine]] resistant a few decades ago, and as of 2012 [[artemisinin]]-resistant [[Plasmodium falciparum]]  has emerged in western Cambodia and western Thailand.
+''[[Toxoplasma gondii]]'' can also become resistant to [[artemisinin]], as well as [[atovaquone]] and [[sulfadiazine]], but is not usually MDR
+[[Antihelminthic]] resistance is mainly reported in the veterinary literature, for example in connection with the practice of livestock drenching and has been recent focus of FDA regulation.
+
+==Preventing the emergence of antimicrobial resistance==
+To limit the development of antimicrobial resistance, it has been suggested to:
+* Use the appropriate antimicrobial for an infection; e.g. no antibiotics for viral infections
+* Identify the causative organism whenever possible
+* Select an antimicrobial which targets the specific organism, rather than relying on a broad-spectrum antimicrobial
+* Complete an appropriate duration of antimicrobial treatment (not too short and not too long)
+* Use the correct dose for eradication; subtherapeutic dosing is associated with resistance, as demonstrated in food animals.
+*More thorough education of and by prescribers on their actions' implications globally.
+
+The medical community relies on education of its prescribers, and self-regulation in the form of appeals to voluntary [[antimicrobial stewardship]], which at hospitals may take the form of an antimicrobial stewardship program. It has been argued that depending on the cultural context government can aid in educating the public on the importance of restrictive use of antibiotics for human clinical use, but unlike narcotics, there is no regulation of its use anywhere in the world at this time. Antibiotic use has been restricted or regulated for treating animals raised for human consumption with success, in Denmark for example.
+
+[[Infection prevention]] is the most efficient strategy of prevention of an infection with a MDR organism within a hospital, because there are few alternatives to antibiotics in the case of an extensively resistant or panresistant infection; if an infection is localized, removal or excision can be attempted (with MDR-TB the lung for example), but in the case of a systemic infection only generic measures like boosting the immune system with immunoglobulins may be possible. The use of [[bacteriophage]]s (viruses which kill bacteria) is a developing area of possible therapeutic treatments.
+
+It is necessary to develop new antibiotics over time since the selection of resistant bacteria cannot be prevented completely. This means with every application of a specific antibiotic, the survival of a few bacteria which already got a resistance gene against the substance is promoted, and the concerning bacterial population amplifies. Therefore, the resistance gene is farther distributed in the organism and the environment, and a higher percentage of bacteria means they no longer respond to a therapy with this specific antibiotic. In addition to developing new antibiotics, new strategies entirely must be implemented in order to keep the public safe from the event of total resistance. New strategies are being tested such as UV light treatments and bacteriophage utilization, however more resources must be dedicated to this cause.
+
