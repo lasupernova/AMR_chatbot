@@ -27,7 +27,7 @@ def main():
     while True:
 
         # Prompt user for query
-        query = set(tokenize(input(f"\nAsk me any question related to antibiotic resistance: ")))
+        query = set(tokenize(input(f"\nAsk me anything antibiotic resistance or enter a term of interest (e.g. Rhine): ")))
 
         # Determine top file matches according to TF-IDF
         filenames = top_files(query, file_words, file_idfs, n=FILE_MATCHES)
