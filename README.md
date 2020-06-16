@@ -8,6 +8,6 @@ Natural language processing chatbot answering questions about antibiotics and an
  Information base is currently local and consists of a few selected research papers and wikipedia entries.
 <br><br>
 Examples of what to ask the chatbot:<br>
-     "What is horizontal gene transfer?"<br>
-     "What type of antibiotics are found in African /South American /European rivers?"<br>
-     "Is hospital wastewater more dangerous than communal wastewater?"<br>
+     What horizontal gene transfer is<br>
+     What type of antibiotics can be found in different regions or specific rivers (e.g. Africa /South America /Europe)<br>
+     If some wastewaters are more dangerous than others (e.g. hospital wastewater vs. communal wastewater)<br>
