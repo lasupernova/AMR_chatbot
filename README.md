@@ -6,3 +6,8 @@ Natural language processing chatbot answering questions about antibiotics and an
  - Run program: ```python questions.py corpus```
  
  Information base is currently local and consists of a few selected research papers and wikipedia entries.
+<br><br>
+Examples of what to ask the chatbot:<br>
+"What is horizontal gene transfer?"
+"What type of antibiotics arefound in African /South American /European rivers?"
+"Who is Gabriela Karina Paulus?" ;)
